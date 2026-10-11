@@ -68,20 +68,23 @@ Choose an operation:
 3. Multiplication (*)
 4. Division (/)
 
-Enter your choice:
-3
+### Day 3 - Arrays and Score Statistics
 
-Result: 50.0
-```
+Topics Covered:
+-Array declaration and initialization
+-Array indexing
+-Accessing and modifying array elements
+-Array traversal using for loops
+-Array length
+-Calculation total and average scores
+-Finding the highest score
 
-### 🔜 Day 3 - Arrays
+Project:
+-Student Score Statistics
 
-**Planned Topics:**
-- Introduction to arrays
-- Array declaration and initialization
-- Accessing array elements
-- Using loops with arrays
-- Basic array exercises
+File:
+- DAY03ScoreStatistics.java
+
 
 ## 🛠️ Development Environment
 
