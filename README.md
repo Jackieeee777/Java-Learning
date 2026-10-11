@@ -51,22 +51,6 @@ File: `DAY02Calculator.java`
 - Invalid operation handling
 - User input using Scanner
 
-**Example:**
-
-```text
-===== Java Calculator =====
-
-Enter the first number:
-10
-
-Enter the second number:
-5
-
-Choose an operation:
-1. Addition (+)
-2. Subtraction (-)
-3. Multiplication (*)
-4. Division (/)
 
 ### Day 3 - Arrays and Score Statistics
 
