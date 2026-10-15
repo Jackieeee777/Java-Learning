@@ -152,15 +152,35 @@ Highest Score:95
 
 ---
 
-### 🔜 Day 4 - Java Methods
+## Day 4 - Java Methods
 
-**Planned Topics:**
-- Introduction to methods
-- Method declaration and invocation
-- Parameters and arguments
-- Return values
-- Void methods
-- Using methods to organize code
+### Topics Learned
+- Method Definition and Method Call
+- Parameters and Arguments
+- Return Values
+- void Methods
+- Local Variables
+- Using Multiple Methods in One Program
+
+### Practice
+1. DAY04Methods.java
+   - Created and called a method multiple times.
+
+2. DAY04Return.java
+   - Used parameters and return values.
+   - Practiced subtraction.
+
+3. DAY04Calculator.java
+   - Created addition and multiplication methods.
+   - Called multiple methods from main().
+
+### Learning Reflection
+Today I learned how to define and call methods in Java.
+I also learned the difference between printing a result
+and returning a value.
+
+I need more practice with organizing multiple methods
+inside one class.
 
 **Planned Project:**
 - Refactoring the Java Calculator using methods
